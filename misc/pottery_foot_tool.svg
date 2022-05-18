@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="12in"
+   height="12in"
+   viewBox="0 0 304.8 304.80001"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.2 (e86c8708, 2021-01-15)"
+   sodipodi:docname="pottery_foot_tool.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.1649824"
+     inkscape:cx="343.75277"
+     inkscape:cy="271.09731"
+     inkscape:document-units="in"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     showguides="false"
+     units="in"
+     inkscape:window-width="1252"
+     inkscape:window-height="847"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="path835"
+       style="fill:none;stroke:#000000;stroke-width:1.45653"
+       inkscape:transform-center-x="-11.233349"
+       inkscape:transform-center-y="-25.874201"
+       d="M 442.93555,65.521484 391.05859,94.798828 226.3125,339.69727 c 17.55523,3.9456 22.01578,12.25485 22.06257,21.36427 0.0446,8.86382 -3.74768,17.01201 -20.54109,21.24901 l 385.5254,-0.0449 c -4.32554,-1.8742 -7.12671,-6.14926 -7.12696,-10.87695 -6.8e-4,-6.54363 5.28531,-11.84886 11.80664,-11.84961 -33.54925,-77.90997 -83.37503,-173.19612 -124.28515,-255.79886 0,0 -19.19073,9.17695 -23.21094,-1.63671 -5.57526,-22.999567 -17.20894,-5.358326 -27.15235,-9.558598 -6.76675,-4.536771 -8.58046,-4.060764 0.85547,-24.826172 z"
+       transform="scale(0.26458334)"
+       sodipodi:nodetypes="ccccccccccccc" />
+  </g>
+</svg>
